@@ -2,5 +2,6 @@ let tempF = 50;
 let celsius = (tempF - 32)*(5/9);
 console.log(celsius);
 
-tempF = 75; 
+tempF = 75;
+celsius = (tempF - 32)*(5/9);
 console.log(celsius);
