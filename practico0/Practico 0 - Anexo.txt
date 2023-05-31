@@ -1,0 +1,16 @@
+1.
+a. El valor que devuelve el programa es 8.
+b. El valor que devuelve el programa es 204.
+
+2.
+a. El área de un rectángulo de base 5cm y altura 3cm es 15cm.
+b. El área de un rectángulo de base 12.5cm y altura 5.3cm es 66.25cm.
+
+3. 
+a. 50 F son 10 grados C.
+b. 75 F son 23.88... grados C.
+
+4. 
+a. El promedio entre 5, 7 y 9 es 7.
+b. El promedio entre -2 , -3, -8 es -4.33...
+c. El promedio entre -1.2, 5.3, -3.3 es 0.266...
