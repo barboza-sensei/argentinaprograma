@@ -4,9 +4,7 @@ let var3 = 9;
 let var4 = 5;
 
 let suma = var1 + var2;
-
 let resta = var3 - var4;
-
 let resultadoFinal = suma * resta;
 
 let esPar = resultadoFinal % 2 === 0;
