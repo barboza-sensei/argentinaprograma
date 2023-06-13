@@ -1,5 +1,4 @@
 let cita = "Tres tristes tigres comen trigo en un trigal";
-
 let substring = "tigres comen trigo";
 
 let tamanoDeCita = cita.length;
